@@ -66,7 +66,7 @@ The pizza restaurant experienced a decline in sales and wanted to identify the k
 
 ## 📷 Dashboard Preview
 
-<img width="1860" height="778" alt="Dashboard1" src="https://github.com/user-attachments/assets/18100d82-6965-4b18-b1a4-07ee1c1af571" />
+<img width="1857" height="783" alt="Dashboard1" src="https://github.com/user-attachments/assets/74202a93-1b30-4612-bee8-041cc61e7d77" />
 
 <img width="1853" height="777" alt="Dashboard2" src="https://github.com/user-attachments/assets/336dcb30-23ea-4917-a4d7-7bbc17034743" />
 
